@@ -10,7 +10,7 @@ This is the v2 followup to the original [Cell paper](https://www.cell.com/cell/f
 
 
 ### Example NBs/workflows:
-1. [Load data](chemprop/Load data): load example datasets (CSV) into Delta tables on Unity Catalog
+1. [Load data](chemprop/Load%20data.ipynb): load example datasets (CSV) into Delta tables on Unity Catalog
 #### Single-task training and inferencing
 2. [Chemprop: fit ClinTox](chemprop/Chemprop:%20fit%20ClinTox.ipynb) classifier (single-task)
 3. [Chemprop: inference ClinTox](chemprop/Chemprop:%20inference%20clintox.ipynb): use ClinTox classifier from NB #2 to predict ClinTox properties of DrugBank
